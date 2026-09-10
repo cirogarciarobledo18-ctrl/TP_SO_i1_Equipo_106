@@ -1,5 +1,7 @@
 Alfa: Garcia Robledo, Ciro
 Beta:Fernandez Ramirez, Barbara Ailiin
+IP: 1254866874
+Hora: 14:17
 
 a-¿ALFA ve los datos que cargaron los demás en su repositorio?
 Sí, cuando un integrante del grupo hace cambios se puede ver quien y cuando los hizo desde el repositorio.
@@ -7,8 +9,10 @@ Sí, cuando un integrante del grupo hace cambios se puede ver quien y cuando los
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
 Sí, cuando el alfa agrega un archivo el resto puede verlo y la hora a la que se creo.
 
-c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+c-¿Si BETA agrega un archivo los demás integrantes lo ven? 
+Si se puede ver el archivo
 
 d-¿De qué forma se comunicaron ustedes?
+nos comunicamos a través de discord
 
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
